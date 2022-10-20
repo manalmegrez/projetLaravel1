@@ -14,9 +14,12 @@
 </head>
 <body>
      <h1> Hey Zineb </h1>
+     <h1> how ara you,, </h1>
      <div class="container">
   <div class="row">
     <div class="col">
+
+    
       Column 1
     </div>
     <div class="col">
@@ -27,15 +30,12 @@
     </div>
   </div>
 </div>
-<button type="button" class="btn btn-primary">Primary</button>
-<button type="button" class="btn btn-secondary">Secondary</button>
-<button type="button" class="btn btn-success">Success</button>
-<button type="button" class="btn btn-danger">Danger</button>
-<button type="button" class="btn btn-warning">Warning</button>
+<button type="button" class="btn btn-primary">Primary1</button>
+<button type="button" class="btn btn-secondary">Secondary22</button>
+<button type="button" class="btn btn-success">Success nice</button>
+<button type="button" class="btn btn-danger">Danger awyaaa</button>
+<button type="button" class="btn btn-warning">Warning test</button>
 <button type="button" class="btn btn-info">Info</button>
-<button type="button" class="btn btn-light">Light</button>
-<button type="button" class="btn btn-dark">Dark</button>
-
 <button type="button" class="btn btn-link">Link</button>
 </body>
 </html>
